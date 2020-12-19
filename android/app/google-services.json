@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011061086170",
+    "firebase_url": "https://parkinsondiseasedetection.firebaseio.com",
+    "project_id": "parkinsondiseasedetection",
+    "storage_bucket": "parkinsondiseasedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011061086170:android:57b0984a21c6f9139652e3",
+        "android_client_info": {
+          "package_name": "com.example.parkinsin_disease_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011061086170-g0q06eqtel17ck1puc7msaf113knajdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkinsin_disease_detection",
+            "certificate_hash": "bd889f66fec0119efcd3435ae624ffb7ffc23843"
+          }
+        },
+        {
+          "client_id": "1011061086170-i5u0f0gojns2ft729mvr6r426dil0372.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARL8jqjUS6Eiu_2xHhiUOfyr_d1Qm5Gs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011061086170-i5u0f0gojns2ft729mvr6r426dil0372.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

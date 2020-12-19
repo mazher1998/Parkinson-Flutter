@@ -1,0 +1,77 @@
+[
+    {
+        "1": "Have you noticed a slight shaking or tremor in your finger, thumb, hand or chin?",
+        "2": "Has your handwriting gotten much smaller than it was in the past?",
+        "3": "Have you noticed you no longer smell certain foods very well? If you seem to have more trouble smelling foods like bananas, dill pickles or licorice",
+        "4": "Do you thrash around in bed or act out dreams when you are deeply asleep?",
+        "5": "Do you feel stiff in your body, arms or legs? Have others noticed that your arms don’t swing like they used to when you walk?",
+        "6": "Do you have trouble moving your bowels(alimentary canal below the stomach) without straining every day??",
+        "7": "Have other people told you that your voice is very soft or that you sound hoarse?",
+        "8": "Have you been told that you have a serious, depressed or mad look on your face, even when you are not in a bad mood?",
+        "9": "Do you notice that you often feel dizzy when you stand up out of a chair?",
+        "10": "Are you not standing up as straight as you used to? If you or your family or friends notice that you seem to be stooping, leaning or slouching when you stand."
+    },
+    {
+        "1": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "2": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "3": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+           
+        },
+        "4": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "5": {
+           "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "6": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "7": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "8": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "9": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+            
+        },
+        "10": {
+           "a": "Yes",
+            "b": "No",
+            "c": "Not Sure"
+           
+        }
+    }
+    
+]
