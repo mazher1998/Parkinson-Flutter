@@ -231,12 +231,12 @@ class _MyHomePageState extends State<MyHomePage> {
                           if (_selectedFile != null) {
                             print("_selectedFile");
 
-                            await classifyImage(_selectedFile);
+                            await _uploadFile(_selectedFile);
                             print("donee");
-                            // Navigator.of(context)
-                            //     .pushReplacement(MaterialPageRoute(
-                            //   builder: (context) => Result(output: output),
-                            // ));
+                            Navigator.of(context)
+                                .pushReplacement(MaterialPageRoute(
+                              builder: (context) => Result(output: output),
+                            ));
                           }
                         },
                         child: Text(
